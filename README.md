@@ -25,7 +25,7 @@ A simple and interactive quiz application built with React.
    ```
 2. Navigate to the project folder:
    ```sh
-   cd react-quiz-app
+   cd 01-starting-project
    ```
 3. Install dependencies:
    ```sh
