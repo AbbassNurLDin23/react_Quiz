@@ -21,7 +21,7 @@ A simple and interactive quiz application built with React.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/react-quiz-app.git
+   git clone https://github.com/AbbassNurLDin23/react_Quiz
    ```
 2. Navigate to the project folder:
    ```sh
